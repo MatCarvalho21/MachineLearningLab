@@ -20,13 +20,3 @@ Projetos paralelos terão pastas individuais para melhor organização.
 
 1. Bishop, Christopher M. *Pattern Recognition and Machine Learning*. Springer, 2006.
 2. Géron, Aurélien. *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems*. O'Reilly Media, 2019.
-
-### Vídeos
-
-1. Canal: [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-   - **Vídeo: Mas o que é uma rede neural?**
-     - [Link para o vídeo](https://www.youtube.com/watch?v=aircAruvnKk)
-   - **Descida gradiente, como as redes neurais aprendem.**
-     - [Link para o vídeo](https://www.youtube.com/watch?v=IHZwWFHWa-w)
-   - **Vídeo: O que a retropropagação realmente está fazendo?**
-     - [Link para o vídeo](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
