@@ -1,45 +1,50 @@
-# Técnicas e Algoritmos em Ciência de Dados (Pré-Machine Learning)
+# Techniques and Algorithms in Data Science (Pre-Machine Learning)
 
-Bem-vindo ao meu repositório! Meu nome é Matheus Carvalho e sou aluno de graduação em Ciência de Dados e Inteligência Artificial na Fundação Getúlio Vargas, no Rio de Janeiro. Atualmente, estou cursando o terceiro período e estou tendo meus primeiros contatos com métodos e algoritmos de aprendizado de máquina. 
+Welcome to my repository! My name is Matheus Carvalho, and I am an undergraduate student in Data Science and Artificial Intelligence at Fundação Getulio Vargas in Rio de Janeiro. Currently, I am in my third semester and am having my first encounters with machine learning methods and algorithms.
 
-## Objetivo
+## Objective
 
-O objetivo deste repositório é desenvolver e expor o meu trabalho ao longo do período. Acredito que esta pode ser uma excelente maneira de organizar meu progresso e me motivar a manter tudo o mais bem feito possível.
+The goal of this repository is to develop and showcase my work throughout the semester. I believe this is an excellent way to organize my progress and motivate myself to keep everything as well done as possible.
 
-## Estrutura do Repositório
+## Repository Structure
 
-Pretendo adicionar ao repositório tarefas e labs propostos pelo professor [Alberto Paccanaro](https://emap.fgv.br/professores/alberto-paccanaro) e alguns projetos pessoais paralelos.
+I plan to add assignments and labs proposed by Professor [Alberto Paccanaro](https://emap.fgv.br/professores/alberto-paccanaro) and some personal side projects to the repository.
 
 ### Labs
 
-Os labs são atividades semanais que possuem uma complexidade relativamente pequena e têm como objetivo nos introduzir a algum tópico da matéria. Todos os labs estão separados em pastas de acordo com o seu tema dentro da pasta `Labs`.
+The labs are weekly activities with relatively low complexity, designed to introduce us to a specific topic in the course. All labs are organized into folders according to their theme within the `Labs` directory.
 
+- **Lab 01** - Linear Regression I
+- **Lab 02** - Linear Regression II
+- **Lab 03** - Fisher's Discriminant
 - **Lab 04** - Forward Pass
 - **Lab 05** - Backpropagation
-- **Lab 06** - Árvores de Decisão
+- **Lab 06** - Decision Trees
 - **Lab 07** - Random Forest
+- **Lab 08** - Virtual Screening
+- **Lab 09** - HClust Tutorial
 
-### Tarefas
+### Assignments
 
-As tarefas são atividades com um grau de complexidade maior e exigem uma dedicação mais extensa por parte do aluno, por isso representam uma parte significativa da nota da matéria. Todas elas estão organizadas por tópicos dentro da pasta `Tarefas`.
+The assignments are more complex activities that require more extensive dedication from the student, so they represent a significant part of the course grade. All assignments are organized by topic within the `Assignments` directory.
 
-- **Tarefa 01** - Visualização e Avaliação de Desempenho
-- **Tarefa 02** - Regressão e Classificação
-- **Tarefa 03** - Redes Neurais
-- **Tarefa 04** - Árvores de Decisão e Random Forest
+- **Assignment 01** - Visualization and Performance Evaluation
+- **Assignment 02** - Regression and Classification
+- **Assignment 03** - Neural Networks
+- **Assignment 04** - Decision Trees and Random Forest
 
-### Livros
+### Books
 
-Para referência e estudo, há uma pasta `Livros` que contém alguns dos principais livros utilizados durante o curso:
+For reference and study, there is a `Books` folder containing some of the main books used during the course:
 
 1. Bishop, Christopher M. *Pattern Recognition and Machine Learning*. Springer, 2006.
 2. Géron, Aurélien. *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems*. O'Reilly Media, 2019.
 3. Duda, Richard O., Hart, Peter E., and Stork, David G. *Pattern Classification*. Wiley-Interscience, 2000.
 
-## Referências
+## References
 
-Além dos livros mencionados, outras referências podem ser adicionadas conforme o desenvolvimento do curso e das atividades.
+In addition to the mentioned books, other references may be added as the course and activities develop.
 
-## Conclusão
+## Conclusion
 
-Este repositório servirá como um portfólio do meu progresso e das minhas conquistas ao longo do curso. A organização dos arquivos e a documentação das atividades realizadas são parte fundamental do processo de aprendizado e desenvolvimento profissional.
+This repository will serve as a portfolio of my progress and achievements throughout the course. Organizing files and documenting completed activities are fundamental parts of the learning and professional development process.
